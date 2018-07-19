@@ -4,7 +4,7 @@ ul{
     padding:0;
     overflow:hidden;
     font-family:fantasy;
-    background-color:black;
+    background-color:336600;
 }
 li{
     float:left;
@@ -19,5 +19,5 @@ li a{
     font-family:fantasy;
 }
 p2 {
-    font-color:white;
+    font-color:e8c547;
 }
