@@ -18,3 +18,7 @@ li a{
     color:e8c547;
     font-family:fantasy;
 }
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 750px)
+  and (orientation: portrait)
