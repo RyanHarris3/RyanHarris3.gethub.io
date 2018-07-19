@@ -21,3 +21,7 @@ li a{
 p2 {
     font-color:e8c547;
 }
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 750px)
+  and (orientation: portrait)
