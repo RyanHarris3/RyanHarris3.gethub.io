@@ -22,7 +22,7 @@ li a{
     margin-left: 15px
     border-style: solid;
     border-width: 5px;
-    float= center;
+    float= left;
     padding: 0 15px; 
 }
 nav {margin-top: 20px;}
