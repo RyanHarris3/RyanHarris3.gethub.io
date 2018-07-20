@@ -31,7 +31,7 @@ iframe {
     border-width: 5px
     
 }
-    
+nav {margin-left: 15px}    
 }
 @media only screen 
   and (min-device-width: 320px) 
